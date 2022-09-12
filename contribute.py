@@ -9,6 +9,7 @@ import sys
 
 NUM = 366
 
+# check that you have access to all the libraries
 
 def main(def_args=sys.argv[1:]):
     args = arguments(def_args)
