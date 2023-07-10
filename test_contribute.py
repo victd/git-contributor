@@ -4,7 +4,7 @@ from subprocess import check_output
 
 # unit testing Feb 14 2022
 # gobble gobble Oct 7 2022
-# test contributions Feb 24 2023
+# test contributions Feb 24 2023, and upload segments
 
 class TestContribute(unittest.TestCase):
 
