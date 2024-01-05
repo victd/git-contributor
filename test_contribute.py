@@ -3,7 +3,7 @@ import contribute
 from subprocess import check_output
 
 # unit testing Feb 14 2022
-# gobble gobble Oct 7 2022
+# gobble gobble Oct 7 2022 check with the parents
 # test contributions Feb 24 2023, and upload segments 
 # test run Sep 8 2023 
 
